@@ -1,6 +1,6 @@
 /**
 * @name Dynamic Time
-* @description Convert classic time to dynamic time for Discord.. (JavaScript)
+* @description Convert classic time to dynamic time for Discord. (JavaScript)
 * @author FekyDEV
 * @authorId 603505971507101698
 * @version 1.0.0
