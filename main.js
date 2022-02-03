@@ -3,9 +3,9 @@
 * @description Convert classic time to dynamic time for Discord. (JavaScript)
 * @author FekyDEV
 * @authorId 603505971507101698
-* @version 1.0.0
+* @version 1.1.1
 * @invite sKKEyUn
-* @source https://github.com/FekyDEV/multi-language/new/main
+* @source https://github.com/FekyDEV/dynamic-time/
 * @license MIT
 */
 
@@ -16,6 +16,4 @@ d = new Date();
     const second = first.slice(0,10)
     const date_to_num = parseInt(second)
     
-console.log("New time:", date_to_num)
-
-// In discord: `<t:${date_to_num}>`
+console.log("New time: %s \n For Discord: <t:%s>", date_to_num)
