@@ -16,4 +16,4 @@ d = new Date();
     const second = first.slice(0,10)
     const date_to_num = parseInt(second)
     
-console.log("New time: %s \n For Discord: <t:%s>", date_to_num)
+console.log("New time: %s \n For Discord: <t:%s>", date_to_num. date_to_num)
